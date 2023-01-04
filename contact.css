@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins&family=Volkhov&display=swap');
+body{
+    width: 100%
+}
+
+.container{
+    background-repeat: no-repeat;
+}
+
+.container img{
+    margin-left: 870px;
+}
+
+.box{
+    width: 732px;
+    height: 513px;
+    background: rgba(255, 255, 255, 0.8);
+    mix-blend-mode: normal;
+    box-shadow: 0px 20px 26px rgba(0, 0, 0, 0.05), 0px 8px 9px rgba(0, 0, 0, 0.06);
+    backdrop-filter: blur(15px);
+    border-radius: 16px;
+    margin-top: -780px;
+    margin-left: 250px;
+}
+
+.box h1{
+    font-family: 'Open Sans';
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 1px;
+    background: linear-gradient(135deg, #FF0080 0%, #7928CA 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    padding-top: 10px;
+}
+
+.box p{
+    width: 684px;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #67748E;
+}
+
+.line1{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 90%;
+    margin-bottom: 15px;
+}
+
+.name legend{
+    font-family: 'Open Sans';
+    font-size: 14px;
+    line-height: 35px;
+    color: #252F40;
+    font-weight: 700;
+}
+
+.name input{
+    font-family: 'Open Sans';
+    font-size: 14px;
+    color: #495057;
+    opacity: 0.5;
+    background: #FFFFFF;
+    border: 1px solid #D2D6DA;
+    height: 40px;
+    width: 300px;
+    border-radius: 8px;
+    padding-left: 15px;
+}
+
+.email legend{
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 35px;
+    color: #252F40;
+}
+
+.email input{
+    font-family: 'Open Sans';
+    font-size: 14px;
+    color: #495057;
+    opacity: 0.5;
+    background: #FFFFFF;
+    border: 1px solid #D2D6DA;
+    height: 40px;
+    width: 300px;
+    border-radius: 8px;
+    padding-left: 15px;
+}
+
+.line2{
+    width: 90%;
+    margin: auto;
+}
+
+.help legend{
+    font-family: 'Open Sans';
+    font-size: 14px;
+    line-height: 35px;
+    color: #252F40;
+    font-weight: 700;
+}
+
+.help input{
+    font-family: 'Open Sans';
+    font-size: 14px;
+    color: #495057;
+    opacity: 0.5;
+    height: 150px;
+    width: 636px;
+    border-radius: 8px;
+    background: #FFFFFF;
+    border: 1px solid #D2D6DA;
+}
+
+.button{
+    background: linear-gradient(135deg, #FF0080 0%, #7928CA 100%);
+    box-shadow: 0px 4px 7px -1px rgba(0, 0, 0, 0.11), 0px 2px 4px -1px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+    height: 40px;
+    width: 134px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+.button p{
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    border: none;
+    margin-left: -275px;
+    padding-top: 8px;
+}
+
+.footer{
+    display: flex;
+    margin: auto;
+    width: 80%;
+    justify-content: space-between;
+    margin-bottom: 80px;
+    margin-top: 400px;
+}
+    
+.jadoo h1{
+    font-family: 'Poppins';
+    font-size: 44px;
+    color: #181E4B;
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+}
+    
+.jadoo p{
+    font-family: 'Poppins';
+    font-size: 13px;
+    color: #5E6282;
+    width: 207px;
+}
+    
+.about{
+    display: flex;
+    line-height: 35px;
+}
+    
+.company{
+    margin-left: 130px;
+    margin-right: 150px;
+}
+.company h2{
+    font-family: 'Poppins';
+    font-size: 21px;
+    color: #080809;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+    
+.company h3{
+    font-family: 'Poppins';
+    font-size: 18px;
+    color: #5E6282;
+}
+    
+.contact{
+    margin-right: 150px;
+}
+    
+.contact h2 a{
+text-decoration: none;
+color: #080809;
+}
+    
+.contact h2{
+    font-family: 'Poppins';
+    font-size: 21px;
+    color: #080809;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    text-decoration: none;
+}
+    
+.contact h3{
+    font-family: 'Poppins';
+    font-size: 18px;
+    color: #5E6282;
+}
+    
+.more{
+    margin-right: 150px;
+}
+
+.more h2{
+    font-family: 'Poppins';
+    font-size: 21px;
+    color: #080809;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+    
+.more h3{
+    font-family: 'Poppins';
+    font-size: 18px;
+    color: #5E6282;
+    width: 114px;
+}
+
+.fb img{
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+    
+.fb h2{
+    font-family: 'Poppins';
+    font-size: 20px;
+    letter-spacing: 2.5px;
+    color: #5E6282;
+    margin-top: -10px;
+    margin-bottom: 25px;
+    width: 250px;
+}
+
+.playstore{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -45px;
+    margin-right: 40px;
+}
+    
+.copyright h2{
+    font-family: 'Poppins';
+    font-size: 14px;
+    color: #5E6282;
+    text-align: center;
+    margin-left: -1250px;
+    margin-top: 350px;
+    margin-bottom: -120px;
+}
+
+.purple{
+    margin-top: 120px;
+    margin-left: 35px;
+    margin-bottom: -150px;
+}
