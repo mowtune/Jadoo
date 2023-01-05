@@ -154,13 +154,19 @@ body{
     margin-left: 250px;
 }
     
+.jadoo h1 a{
+    text-decoration: none; 
+    color: #181E4B;
+}
+
 .jadoo h1{
     font-family: 'Poppins';
     font-size: 44px;
     color: #181E4B;
     margin-bottom: 20px;
     letter-spacing: 3px;
-    margin-top: 40px;    
+    margin-top: 40px;
+    
 }
     
 .jadoo p{
