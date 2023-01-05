@@ -36,12 +36,15 @@ body{
 }
 
 .box p{
-    width: 684px;
+    width: 700px;
     font-family: 'Open Sans';
     font-size: 16px;
     line-height: 26px;
     text-align: center;
     color: #67748E;
+    margin: auto;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
 }
 
 .line1{
@@ -126,18 +129,18 @@ body{
     height: 40px;
     width: 134px;
     margin-left: 300px;
-    margin-top: 20px;
+    margin-top: 30px;
+    cursor: pointer;
 }
 
 .button p{
     font-family: 'Open Sans';
     font-weight: 700;
     font-size: 12px;
-    text-align: center;
     letter-spacing: 1px;
     color: #FFFFFF;
     border: none;
-    margin-left: -275px;
+    margin-left: -282px;
     padding-top: 8px;
 }
 
@@ -148,6 +151,7 @@ body{
     justify-content: space-between;
     margin-bottom: 80px;
     margin-top: 400px;
+    margin-left: 250px;
 }
     
 .jadoo h1{
@@ -156,6 +160,7 @@ body{
     color: #181E4B;
     margin-bottom: 20px;
     letter-spacing: 3px;
+    margin-top: 40px;    
 }
     
 .jadoo p{
@@ -163,6 +168,7 @@ body{
     font-size: 13px;
     color: #5E6282;
     width: 207px;
+    font-weight: 700;
 }
     
 .about{
