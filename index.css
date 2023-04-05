@@ -8,6 +8,7 @@
 
 body{
     width: 100%;
+    
 }
 
 .container{
@@ -26,7 +27,8 @@ body{
 .cream{
     background-repeat: no-repeat;
     margin:auto;
-    margin-left: 1129px;
+    margin-left: 808px;
+    
 }
 
 .header{
@@ -35,7 +37,7 @@ body{
     width: 80%;
     margin: auto;
     margin-top: -680px;
-    margin-left: 190px;
+    margin-left: 150px;
 }
 
 .navlist{
@@ -51,7 +53,7 @@ body{
 }
 
 .navlist li{
-    margin-right: 100px;
+    margin-right: 60px;
     font-family: 'DM Sans';
     /* font-weight: bold; */
     font-size: 20px;
@@ -70,7 +72,7 @@ body{
 }
 
 .arrowdown{
-    margin-left: -90px;
+    margin-left: -50px;
 }
 
 .section1{
@@ -148,10 +150,10 @@ body{
     margin-top: 30px;
 }
 
-.traveller{
-    margin-right: 500px;
+.traveller>img{
+    /* margin-right: 500px; */
     width: 765px;
-    margin-left: -15px;
+    margin-left: -120px;
     margin-top: 20px;
 }
 
@@ -170,7 +172,7 @@ body{
 }
 
 .cross{
-    margin-left: 1490px;
+    margin-left: 1200px;
     margin-top: 100px;
 }
 
@@ -485,7 +487,7 @@ body{
 
 .spiral{
     margin-top: -250px;
-    margin-left: 1350px;
+    margin-left: 1100px;
 }
 
 .section4{
@@ -814,6 +816,7 @@ body{
     width: 80%;
     margin: auto;
     margin-top: 120px;
+    
 }
 
 .section7{
@@ -821,6 +824,7 @@ body{
     width: 80%;
     margin-top: 170px;
     margin-bottom: 150px;
+    margin-left: -10px;
 }
 
 .section7 h1{
@@ -873,16 +877,16 @@ body{
 }
 
 .cross2 img{
-    margin-left: 1270px;
+    margin-left: 1250px;
     margin-top: -40px;
 }
 
 .section8{
-display: flex;
-justify-content: space-between;
-margin: auto;
-width: 80%;
-margin-bottom: 80px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 80%;
+    margin-bottom: 80px;
 }
 
 .jadoo h1 a{
